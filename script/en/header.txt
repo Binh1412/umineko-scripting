@@ -2,8 +2,8 @@ language english
 
 ; Game window caption 
 
-if %CHIRU_MODE == 0 caption "Umineko no Naku Koro ni ~Rondo of the Witch and Reasoning~ (" + $CHIRU_MODE + ")"
-if %CHIRU_MODE == 1 caption "Umineko no Naku Koro ni Chiru ~Nocturne of Truth and Illusions~ (" + $CHIRU_MODE + ")"
+if %CHIRU_MODE == 0 caption "Umineko - Khi Hải Âu Khóc ~Vũ khúc và Lý luận của Phù thủy~ (" + $CHIRU_MODE + ")"
+if %CHIRU_MODE == 1 caption "Umineko no Naku Koro ni Chiru ~Dạ khúc của Ảo tưởng và Sự thật~ (" + $CHIRU_MODE + ")"
 
 ;--Textboxes--
 
