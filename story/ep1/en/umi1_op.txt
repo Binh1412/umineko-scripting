@@ -24,26 +24,26 @@
 ` người quản gia tên Genji lặng lẽ gật đầu rồi thực hiện yêu cầu của chủ nhân ông.`
 `Vị bác sĩ tên Nanjo thở dài trong lúc Genji mở tủ rượu để chuẩn bị...`
 `Một thứ mùi tỏa ra từ trong tủ.`
-`...This sweet, poisonous aroma felt as though it melted the heart, if not the soul itself.`
-` It was the smell of that venomous green drink that the man couldn't bring himself to part from.`
+`...Thứ mùi ấy ngọt ngào, khiến cho người ta say mê.`
+` Đó là cái mùi của thứ thức uống màu xanh lá kia mà người đàn ông không thể từ bỏ.`
 `"......Nanjo.`
-` You are my close friend of many years.`
-` I am deeply grateful for all that you have done to keep me alive this long."`
-`"I have done nothing.`
-` ......After all, you never listen to my advice as your physician."`
+` Ông là bạn thân của ta sau nhiều năm.`
+` Ta cảm ơn ông vì đã giúp ta được sống lâu đến ngày hôm nay."`
+`"Tôi chưa làm gì cả.`
+` ......Suy cho cùng, ngài có bao giờ nghe lời khuyên của tôi đâu."`
 `"Hahahaha...`
-` And you never listen when I warn you about a mistaken chess move you're about to make.`
-` It seems we are even."`
-`"......My lord."`
-`"Thank you.`
-` ......I wouldn't die if I ran out of your medicine, but I would if I ran out of this."`
-`With one eye on Nanjo, who had his face set in a resigned expression, Kinzo took the glass that Genji was holding out to him.`
-`...There are probably very few people who would associate the venomous color which filled the glass with an alcoholic beverage.`
+` Ông cũng cho ta đi lại nước cờ mỗi lần ta mắc lỗi mà.`
+` Vậy thì ta hòa rồi."`
+`"......Lão gia."`
+`"Cảm ơn.`
+` ......Ta vẫn sống được mà không cần thuốc, nhưng thiếu thứ này thì ta chắc không sống nổi."`
+`Kinzo lướt qua vẻ mặt thất vọng của Nanjo rồi lấy chén rượu trong tay Genji.`
+`...Chắc có rất ít người nghĩ rằng cái màu đáng sợ kia thuộc về một loại rượu.`
 `".........Nanjo.`
-` Be honest with me.`
-` How much time do I have left?"`
-`"Well now...`
-` How short must I make it to get you to stop drinking?"`
+` Nói thật cho ta biết đi.`
+` Ta còn sống được bao lâu nữa?"`
+`"Giờ thì...`
+` Nó phải ngắn tới mức nào thì ngài mới chịu cai rượu đây?"`
 `Nanjo once again let out a sigh of resignation.`
 `{n}As he watched Kinzo down the glass regardless, he spoke.`
 `".........You don't have much time."`
